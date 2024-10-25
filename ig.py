@@ -1,3 +1,4 @@
+import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from captum.attr import IntegratedGradients
 import json
@@ -22,7 +23,8 @@ def perform_ig(input_text, target_token):
 
     target_token_id = tokenizer.encode(target_token)[-1]
 
-    baseline_input_ids = tokenizer.encode(" " * len(input_text), return_tensors='pt')
+    # Create a baseline of the same length as the input
+    baseline_input_ids = torch.zeros_like(input_ids)
     baseline_embeds = model.get_input_embeddings()(baseline_input_ids)
 
     ig = IntegratedGradients(model_wrapper)
@@ -38,7 +40,7 @@ def perform_ig(input_text, target_token):
     tokens = tokenizer.convert_ids_to_tokens(input_ids[0])
     attributions_sum = attributions.sum(dim=-1).squeeze().tolist()
 
-    return tokens, attributions_sum, delta
+    return tokens, attributions_sum, delta.item()  # Convert delta to a Python scalar
 
 def process_file(file_path, augmented_data):
     with open(file_path, 'r') as file:
@@ -73,6 +75,7 @@ def process_file(file_path, augmented_data):
             'attributions': attributions,
             'delta': delta
         })
+        break
 
     return results
 

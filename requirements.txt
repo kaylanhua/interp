@@ -2,3 +2,4 @@ transformers
 captum
 openai
 python-dotenv
+torch
