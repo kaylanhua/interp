@@ -19,8 +19,8 @@ def parse_data(file_path):
         prompt = [re.sub(r'^\d+\.\s*', '', line.strip()) for line in lines[1:-1]]
         
         result.append({
-            "context": context,
-            "prompt": prompt
+            "prompt": context,
+            "context": prompt
         })
 
     return result
