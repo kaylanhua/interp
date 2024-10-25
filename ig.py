@@ -75,7 +75,6 @@ def process_file(file_path, augmented_data):
             'attributions': attributions,
             'delta': delta
         })
-        break
 
     return results
 
@@ -89,7 +88,11 @@ def main():
 
     augmented_data = load_augmented_data(augmented_data_file)
 
+    limit = 5
     for filename in os.listdir(permuted_folder):
+        limit -= 1
+        if limit < 0:
+            break
         if filename.endswith('.txt'):
             file_path = os.path.join(permuted_folder, filename)
             results = process_file(file_path, augmented_data)
