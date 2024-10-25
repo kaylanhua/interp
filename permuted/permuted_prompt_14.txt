@@ -1,0 +1,65 @@
+Consider the following information.
+   1. What is 2 + 2? Answer: 4.
+   2. What is 3 + 5? Answer: 8.
+   3. What is 10 - 4? Answer: 6.
+   4. What is 7 + 6?
+
+Consider the following information.
+   1. What is 2 + 2? Answer: 4.
+   2. What is 10 - 4? Answer: 6.
+   3. What is 3 + 5? Answer: 8.
+   4. What is 7 + 6?
+
+Consider the following information.
+   1. What is 3 + 5? Answer: 8.
+   2. What is 2 + 2? Answer: 4.
+   3. What is 10 - 4? Answer: 6.
+   4. What is 7 + 6?
+
+Consider the following information.
+   1. What is 3 + 5? Answer: 8.
+   2. What is 10 - 4? Answer: 6.
+   3. What is 2 + 2? Answer: 4.
+   4. What is 7 + 6?
+
+Consider the following information.
+   1. What is 10 - 4? Answer: 6.
+   2. What is 2 + 2? Answer: 4.
+   3. What is 3 + 5? Answer: 8.
+   4. What is 7 + 6?
+
+Consider the following information.
+   1. What is 10 - 4? Answer: 6.
+   2. What is 3 + 5? Answer: 8.
+   3. What is 2 + 2? Answer: 4.
+   4. What is 7 + 6?
+
+Consider the following information.
+   1. What is 2 + 2? Answer: 4.
+   2. What is 3 + 5? Answer: 8.
+   3. What is 7 + 6?
+
+Consider the following information.
+   1. What is 2 + 2? Answer: 4.
+   2. What is 10 - 4? Answer: 6.
+   3. What is 7 + 6?
+
+Consider the following information.
+   1. What is 3 + 5? Answer: 8.
+   2. What is 2 + 2? Answer: 4.
+   3. What is 7 + 6?
+
+Consider the following information.
+   1. What is 3 + 5? Answer: 8.
+   2. What is 10 - 4? Answer: 6.
+   3. What is 7 + 6?
+
+Consider the following information.
+   1. What is 10 - 4? Answer: 6.
+   2. What is 2 + 2? Answer: 4.
+   3. What is 7 + 6?
+
+Consider the following information.
+   1. What is 10 - 4? Answer: 6.
+   2. What is 3 + 5? Answer: 8.
+   3. What is 7 + 6?
