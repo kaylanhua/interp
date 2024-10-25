@@ -1,0 +1,122 @@
+[
+  {
+    "context": "Which organ is responsible for absorbing nutrients from digested food?",
+    "prompt": [
+      "What organ pumps blood throughout the body? Answer: The heart.",
+      "Which organ is primarily responsible for filtering blood? Answer: The kidneys.",
+      "Which organ is responsible for producing insulin? Answer: The pancreas."
+    ]
+  },
+  {
+    "context": "Which of Newton's laws explains why a person moves backward when they push against a wall?",
+    "prompt": [
+      "What is Newton\u2019s First Law of Motion commonly called? Answer: The Law of Inertia.",
+      "What is the formula for Newton's Second Law of Motion? Answer: F = ma (Force equals mass times acceleration).",
+      "What does Newton's Third Law of Motion state? Answer: For every action, there is an equal and opposite reaction."
+    ]
+  },
+  {
+    "context": "Which gas makes up around 21% of Earth's atmosphere?",
+    "prompt": [
+      "What is the most abundant gas in Earth's atmosphere? Answer: Nitrogen.",
+      "Which gas is essential for human respiration? Answer: Oxygen.",
+      "Which gas is a major contributor to the greenhouse effect? Answer: Carbon dioxide."
+    ]
+  },
+  {
+    "context": "What is the main ingredient in a traditional Greek tzatziki sauce?",
+    "prompt": [
+      "What is the main ingredient in traditional Japanese miso soup? Answer: Miso paste.",
+      "What fermented product is used as a base in kimchi? Answer: Cabbage.",
+      "What is the key ingredient in sauerkraut? Answer: Cabbage."
+    ]
+  },
+  {
+    "context": "Who is known for developing the theory of evolution by natural selection?",
+    "prompt": [
+      "Who developed the theory of general relativity? Answer: Albert Einstein.",
+      "Who is known for formulating the laws of planetary motion? Answer: Johannes Kepler.",
+      "Who discovered the law of universal gravitation? Answer: Isaac Newton."
+    ]
+  },
+  {
+    "context": "What type of relationship is present between a bee and a flowering plant?",
+    "prompt": [
+      "What type of symbiotic relationship benefits both organisms involved? Answer: Mutualism.",
+      "What type of symbiotic relationship benefits one organism but harms the other? Answer: Parasitism.",
+      "What type of symbiotic relationship benefits one organism without affecting the other? Answer: Commensalism."
+    ]
+  },
+  {
+    "context": "What is the capital of Canada?",
+    "prompt": [
+      "What is the capital of Germany? Answer: Berlin.",
+      "What is the capital of Japan? Answer: Tokyo.",
+      "What is the capital of Australia? Answer: Canberra."
+    ]
+  },
+  {
+    "context": "Which element has the symbol \"C\"?",
+    "prompt": [
+      "Which element has the atomic number 1? Answer: Hydrogen.",
+      "Which element is represented by the symbol \"O\"? Answer: Oxygen.",
+      "Which element is a noble gas with the atomic number 10? Answer: Neon."
+    ]
+  },
+  {
+    "context": "What type of rock is granite?",
+    "prompt": [
+      "What type of rock is formed from cooled magma or lava? Answer: Igneous rock.",
+      "What type of rock is formed from the compression of sediments? Answer: Sedimentary rock.",
+      "What type of rock is formed through heat and pressure? Answer: Metamorphic rock."
+    ]
+  },
+  {
+    "context": "What is the primary pigment involved in photosynthesis?",
+    "prompt": [
+      "What process do plants use to convert sunlight into energy? Answer: Photosynthesis.",
+      "Which organelle is responsible for photosynthesis in plant cells? Answer: Chloroplast.",
+      "What gas do plants release during photosynthesis? Answer: Oxygen."
+    ]
+  },
+  {
+    "context": "What is the chemical symbol for ammonia?",
+    "prompt": [
+      "What is the chemical symbol for water? Answer: H\u2082O.",
+      "What is the chemical symbol for carbon dioxide? Answer: CO\u2082.",
+      "What is the common name for NaCl? Answer: Table salt."
+    ]
+  },
+  {
+    "context": "Who wrote *Moby-Dick*?",
+    "prompt": [
+      "Who wrote *Hamlet*? Answer: William Shakespeare.",
+      "Who wrote *Pride and Prejudice*? Answer: Jane Austen.",
+      "Who wrote *The Great Gatsby*? Answer: F. Scott Fitzgerald."
+    ]
+  },
+  {
+    "context": "What is the third planet from the sun?",
+    "prompt": [
+      "What is the largest planet in our solar system? Answer: Jupiter.",
+      "What is the smallest planet in our solar system? Answer: Mercury.",
+      "Which planet is known as the Red Planet? Answer: Mars."
+    ]
+  },
+  {
+    "context": "What is 7 + 6?",
+    "prompt": [
+      "What is 2 + 2? Answer: 4.",
+      "What is 3 + 5? Answer: 8.",
+      "What is 10 - 4? Answer: 6."
+    ]
+  },
+  {
+    "context": "What is the freezing point of water at sea level in Fahrenheit?",
+    "prompt": [
+      "What is the boiling point of water at sea level in Celsius? Answer: 100\u00b0C.",
+      "What is the freezing point of water at sea level in Celsius? Answer: 0\u00b0C.",
+      "What is the boiling point of water at sea level in Fahrenheit? Answer: 212\u00b0F."
+    ]
+  }
+]
